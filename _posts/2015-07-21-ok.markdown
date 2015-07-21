@@ -1,0 +1,9 @@
+---
+published: true
+title: ok
+layout: post
+---
+hello world
+
+
+as
